@@ -10,5 +10,5 @@ package SegundaPruebaGit;
  * @author Laura
  */
 public class Clase3 {
-    
+    private int numero;
 }
